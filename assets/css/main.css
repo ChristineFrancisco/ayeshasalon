@@ -3034,7 +3034,7 @@ input, select, textarea {
 
 				.wrapper.style3 select option {
 					color: #ffffff;
-					background: ##6b6172;
+					background: #6b6172;
 				}
 
 			.wrapper.style3 input[type="checkbox"] + label,
@@ -3816,7 +3816,7 @@ input, select, textarea {
 		padding: 12em 0 10em 0 ;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/Hair-salon-photo-black.jpg");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/Hair-salon-photo-black.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/Hair-salon-photo-black.jpgg");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/Hair-salon-photo-black.jpg");
 		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/Hair-salon-photo-black.jpg");
 		background-attachment: fixed;
 		background-position: center center;
