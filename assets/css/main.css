@@ -2788,7 +2788,7 @@ input, select, textarea {
 /* Wrapper */
 
 	.wrapper {
-		padding: 6em 0 4em 0 ;
+		padding: 3em 6em 2em 6em ;
 	}
 
 		.wrapper > .inner {
@@ -2817,7 +2817,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #6b6172;
+			background-color: #473a50;
 			color: #c8ece9;
 		}
 
@@ -2980,7 +2980,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #6b6172;
+			background-color: #473a50;
 			color: #d3d4e4;
 		}
 
@@ -3034,7 +3034,7 @@ input, select, textarea {
 
 				.wrapper.style3 select option {
 					color: #ffffff;
-					background: #6b6172;
+					background: #473a50;
 				}
 
 			.wrapper.style3 input[type="checkbox"] + label,
@@ -3050,7 +3050,7 @@ input, select, textarea {
 			.wrapper.style3 input[type="checkbox"]:checked + label:before,
 			.wrapper.style3 input[type="radio"]:checked + label:before {
 				background: #ffffff;
-				color: #6b6172;
+				color: #473a50;
 			}
 
 			.wrapper.style3 ::-webkit-input-placeholder {
